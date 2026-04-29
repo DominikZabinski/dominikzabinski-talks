@@ -7,7 +7,7 @@ author:
       - "Gruca Orthopaedic and Trauma Teaching Hospital, Otwock, Poland"
     email:
       dominikzabinski@gmail.com
-date: last-modified
+date: 2026-05-08
 date-format: "MMMM D, YYYY"
 format:
   revealjs:
