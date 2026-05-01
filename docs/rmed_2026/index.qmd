@@ -24,7 +24,7 @@ format:
     show-slide-number: all
     highlight-style: rstudio_default-light.theme
     logo: "img/rmed.png"
-    footer: "[Slides are here](https://dominikzabinski.github.io/dominikzabinski-talks/rmed_2026/#){target='_blank'}"
+    footer: "[Slides are here: https://dominikzabinski.github.io/dominikzabinski-talks/rmed_2026/#](https://dominikzabinski.github.io/dominikzabinski-talks/rmed_2026/#){target='_blank'}"
     include-after-body: "img/clean_title_page.html"
 include-in-header:
   text: |
@@ -57,7 +57,6 @@ highlight-style: rstudio_default-light.theme
 ## Initial State
 
 ```{mermaid}
-%%| fig-height: 7.5
 flowchart TB
 
   d11([Registry data.xlsx])
@@ -192,7 +191,6 @@ class case1,case2,case3,data1,data2,data3,script1,script2,script3,tool1,tool2,to
 ## ETL
 
 ```{mermaid}
-%%| fig-height: 7.5
 flowchart LR
 
   d11([Registry data.xlsx])
@@ -349,7 +347,6 @@ class idd,aaa simpler-block;
 ## Visualizations
 
 ```{mermaid}
-%%| fig-height: 7.5
 flowchart LR
 
   d11([Registry data.xlsx])
@@ -506,7 +503,6 @@ class idd,aaa simpler-block;
 ## LaTex
 
 ```{mermaid}
-%%| fig-height: 7.5
 flowchart LR
 
   d11([Registry data.xlsx])
@@ -637,7 +633,6 @@ class idd,aaa simpler-block;
 ## More (version) Control and POSIT
 
 ```{mermaid}
-%%| fig-height: 7.5
 flowchart LR
 
   d11([Registry data.xlsx])
@@ -783,7 +778,6 @@ class topaaa,downaaa dummy-block;
 ## Shiny
 
 ```{mermaid}
-%%| fig-height: 7.5
 flowchart LR
 
   d11([Registry data.xlsx])
